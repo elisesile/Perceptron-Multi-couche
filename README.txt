@@ -33,7 +33,7 @@ Pour chacune, l'algorithme a été entraîné avec l'ensemble de
 la base.
 Les évolutions de l'erreurs sont incluses.
 
-
+![alt text]https://github.com/elisesile/Perceptron-Multi-couche/blob/main/image01input.png
 
 
 Difficultées rencontrées : 
