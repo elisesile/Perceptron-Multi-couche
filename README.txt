@@ -5,6 +5,7 @@
 **************      Elise NOGA      **************
 **************************************************
 
+(TP effectué lors du M1 IISC à l'UCP - 2h de temps)
 
 Fichier mlpMultFiles.py :
 
@@ -28,9 +29,11 @@ fichiers csv.
 Test 1 et Test 2 :
 
 Dossiers qui contiennent les résultats de deux itérations. 
-Pour chacune, l(algorithme a été entraîné avec l'ensemble de
+Pour chacune, l'algorithme a été entraîné avec l'ensemble de
 la base.
 Les évolutions de l'erreurs sont incluses.
+
+
 
 
 Difficultées rencontrées : 
