@@ -26,14 +26,12 @@ Même implémentation que le précédent mais récupération
 des données pour l'entraînement et le test à partir des
 fichiers csv.
 
-Test 1 et Test 2 :
+input et output . png :
 
-Dossiers qui contiennent les résultats de deux itérations. 
+Quelques résultats des itérations. 
 Pour chacune, l'algorithme a été entraîné avec l'ensemble de
 la base.
 Les évolutions de l'erreurs sont incluses.
-
-![alt text](https://github.com/elisesile/Perceptron-Multi-couche/blob/main/image01input.png)
 
 
 Difficultées rencontrées : 
